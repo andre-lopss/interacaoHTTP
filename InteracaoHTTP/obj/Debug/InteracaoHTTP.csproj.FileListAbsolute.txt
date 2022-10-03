@@ -1,0 +1,11 @@
+C:\Users\andre\source\repos\InteracaoHTTP\InteracaoHTTP\obj\Debug\InteracaoHTTP.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\InteracaoHTTP\InteracaoHTTP\obj\Debug\InteracaoHTTP.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\source\repos\InteracaoHTTP\InteracaoHTTP\obj\Debug\InteracaoHTTP.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\InteracaoHTTP\InteracaoHTTP\bin\Debug\InteracaoHTTP.exe.config
+C:\Users\andre\source\repos\InteracaoHTTP\InteracaoHTTP\bin\Debug\InteracaoHTTP.exe
+C:\Users\andre\source\repos\InteracaoHTTP\InteracaoHTTP\bin\Debug\InteracaoHTTP.pdb
+C:\Users\andre\source\repos\InteracaoHTTP\InteracaoHTTP\obj\Debug\InteracaoHTTP.exe
+C:\Users\andre\source\repos\InteracaoHTTP\InteracaoHTTP\obj\Debug\InteracaoHTTP.pdb
+C:\Users\andre\source\repos\InteracaoHTTP\InteracaoHTTP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\andre\source\repos\InteracaoHTTP\InteracaoHTTP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\andre\source\repos\InteracaoHTTP\InteracaoHTTP\obj\Debug\InteracaoHTTP.csproj.CopyComplete
